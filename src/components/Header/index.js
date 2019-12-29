@@ -4,10 +4,6 @@ import { Link } from 'react-router-dom';
 import { Container, Head, Logo, Nav, Aside } from './styles';
 
 import logo from "../../assets/logo.png";
-import logoRight from "../../assets/logo-header-right.png";
-
-//import logoLeft from "../../assets/logo-left.png";
-//import logoRight from "../../assets/logo-right.png";
 
 export default function Header() {
   return (

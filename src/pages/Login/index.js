@@ -1,10 +1,6 @@
 import React from "react";
 
 import logo from "../../assets/logo.png";
-import logoRight from "../../assets/logo-header-right.png";
-
-//import logoRight from "../../assets/logo-right.png";
-//import logoLeft from "../../assets/logo-left.png";
 
 import {Container, Content, Logo, Form} from "./styles";
 
